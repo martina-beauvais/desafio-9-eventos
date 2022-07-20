@@ -1,0 +1,92 @@
+/* --- HEADER --- */
+header{
+    width: 100%;
+    height: 70px;
+    justify-content: space-between;
+    display: inline-flex;
+    position:absolute; 
+    box-shadow: #464246;
+    margin-top: -10px;
+}
+.shadow{
+    width: 100%;
+    height: 85px;
+    position:fixed; 
+
+}
+.name{
+    height: 50px;
+    width: 150px;
+}
+.logo{
+    height: 65px;
+    width: 65px;
+}
+.navbar-nav{
+    justify-content: left;
+}
+ul{
+    list-style-type: none;
+}
+#offcanvasNavbar{
+    font-family: 'BIZ UDPMincho', serif;
+    font-size: larger;
+    margin-top: 5px;
+    padding-right: 10px;
+}
+.cart3{
+    width: 35px;
+    height: 32px;
+    font-size: 36px;
+    margin-left: 3%;
+}
+/* --- INICIO --- */
+.card-banner{
+    padding-top: 40%;
+}
+.buho-lector{
+    margin-top: 10%;
+    margin-left: 25%;
+}
+/* --- TIENDA --- */
+.tienda{
+    padding-top: 8%;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+#libros{
+    margin-left:8%;    
+    font-size: 20px;
+    margin-top:4%;
+    position: relative;
+}
+.card-book{
+    background-color: #bbaab8;
+    position:relative;
+}
+/* --- MI CUENTA --- */
+.container{
+    padding-top: 5%;
+}
+#idForm{
+    border: solid 5px #292643;
+    background-color: rgba(187, 170, 184);
+    width: 580px;
+    height: 500px;
+    margin-left: 28%;
+}
+.registrarse{
+    padding-top: 10%;
+    text-align: center;
+    text-decoration: underline;
+}
+#iniciarSesion{
+    padding-top: 3%;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 7%;
+}
+#botonUsers{
+    margin-left: 45%;
+}
